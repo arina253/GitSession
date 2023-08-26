@@ -1,0 +1,46 @@
+
+//Day1 
+
+
+//Step 1
+Download  and install
+https://git-scm.com/download/win
+
+
+//Step 2
+https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home
+email 
+password
+username
+login to gmail and verify code
+
+//Step 3
+Open the command line.
+Set your username: git config --global user.name "Minskoleopc"
+Set your email address: git config --global user.email "minskoleopc@gmail" 
+
+********************************************************************************************************,o,/
+
+// Day 2
+
+
+// scenario - one
+ create -
+//create folder on desktop 
+//open with visual studio code 
+// add a file to it 
+// write code and save the file 
+// open terminal and run the below commands
+
+// git --version
+// git init
+// git add .  
+// git commit -m "dayOne"
+
+// login github
+// create a new repository 
+// git branch -M main
+// git remote add origin https://github.com/Minskoleopc/gitSessionOne.git
+// git push -u origin main
+
+********************************************************************************************************
