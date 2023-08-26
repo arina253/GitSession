@@ -26,7 +26,11 @@ Set your email address: git config --global user.email "minskoleopc@gmail"
 
 // scenario - one
  create -
-//create folder on desktop 
+// create folder on desktop 
+-In Windows command prompt, Use the 'mkdir' command to create a directory.
+                            use the 'cd 'command to change directories.
+                            'type nul > filename' command is used to create an empty file with the specified filename. 
+
 //open with visual studio code 
 // add a file to it 
 // write code and save the file 
